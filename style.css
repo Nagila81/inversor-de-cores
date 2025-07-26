@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    width: 250px;
+    height: 75px;
+    border: none;
+    background-color: #FFF;
+    border-radius: 50px;
+    cursor: pointer;
+}
